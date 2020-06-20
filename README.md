@@ -1,2 +1,2 @@
 # Desafios Guanabara
- Objetivo cumprir os desafios do Guanabara
+ Objetivo: cumprir os desafios do Guanabara
